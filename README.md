@@ -2,7 +2,7 @@
 
 A state-of-the-art platform built using the MERN (MongoDB, Express.js, React.js, Node.js) stack for facilitating the rental of agricultural drones for a variety of services, including spraying, payload, and surveillance. Integrated seamlessly with Drone station to monitor and manage all the ArduPilot drones.
 
-![Platform Screenshot](path_to_screenshot.png)  
+![Screen Shot 2023-08-17 at 4.49.47 PM.png] 
 
 
 ## Features:
